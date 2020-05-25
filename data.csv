@@ -1,0 +1,576 @@
+﻿City,Number of Records,division_id,division_name,latitude,longitude,polling_place,polling_place_id,polling_place_name,polling_place_type_id,state,total_formal_votes,tpp_australian_labor_party_percentage,tpp_australian_labor_party_votes,tpp_liberal_national_coalition_percentage,tpp_liberal_national_coalition_votes,tpp_swing
+Parkes,1,318,Bean,-35.3019611,149.1299644,Parkes,93928,Parkes (Bean),1,ACT,542,76.01,412,23.99,130,-11.23
+Parkes,1,318,Bean,-35.3019611,149.1299644,Parkes,97479,Parkes BEAN PPVC,5,ACT,948,63.08,598,36.92,350,36.92
+Griffith,1,101,Canberra,-35.3222,149.145,Griffith,8817,Griffith,1,ACT,1398,62.52,874,37.48,524,-8.4
+Parkes,1,101,Canberra,-35.3019611,149.1299644,Parkes,65741,Parkes (Canberra),1,ACT,2438,78.34,1910,21.66,528,-11.06
+Parkes,1,101,Canberra,-35.3019611,149.1299644,Parkes,65742,Parkes CANBERRA PPVC,5,ACT,2878,62.23,1791,37.77,1087,-3.08
+Parkes,1,102,Fenner,-35.3019611,149.1299644,Parkes,65743,Parkes (Fenner),1,ACT,437,76.43,334,23.57,103,-3.3
+Parkes,1,102,Fenner,-35.3019611,149.1299644,Parkes,83858,Parkes FENNER PPVC,5,ACT,989,61.98,613,38.02,376,-2.71
+Sydney,1,103,Banks,-33.8730501,151.2064528,Sydney,14011,Sydney (Banks),1,NSW,151,59.6,90,40.4,61,-7.92
+Sydney,1,103,Banks,-33.8638565,151.2092587,Sydney,97610,Sydney BANKS PPVC,5,NSW,561,46.7,262,53.3,299,4.19
+Sydney,1,104,Barton,-33.8730501,151.2064528,Sydney,14014,Sydney (Barton),1,NSW,282,60.28,170,39.72,112,-2.08
+Sydney,1,104,Barton,-33.8638565,151.2092587,Sydney,97609,Sydney BARTON PPVC,5,NSW,685,52.55,360,47.45,325,3.85
+Orange,1,109,Calare,-33.2798185,149.0946465,Orange,286,Orange North,1,NSW,1669,39.36,657,60.64,1012,-5.85
+Sydney,1,105,Bennelong,-33.8730501,151.2064528,Sydney,14017,Sydney (Bennelong),1,NSW,172,52.91,91,47.09,81,-0.95
+Sydney,1,105,Bennelong,-33.8638565,151.2092587,Sydney,97605,Sydney BENNELONG PPVC,5,NSW,682,42.96,293,57.04,389,1.68
+Sydney,1,106,Berowra,-33.8730501,151.2064528,Sydney,14020,Sydney (Berowra),1,NSW,105,59.05,62,40.95,43,-8.64
+Sydney,1,106,Berowra,-33.8638565,151.2092587,Sydney,97607,Sydney BEROWRA PPVC,5,NSW,460,38.04,175,61.96,285,1.15
+Sydney,1,107,Blaxland,-33.8730501,151.2064528,Sydney,32339,Sydney (Blaxland),1,NSW,98,68.37,67,31.63,31,4.9
+Sydney,1,107,Blaxland,-33.8638565,151.2092587,Sydney,97619,Sydney BLAXLAND PPVC,5,NSW,345,66.38,229,33.62,116,-4.8
+Sydney,1,108,Bradfield,-33.8730501,151.2064528,Sydney,31029,Sydney (Bradfield),1,NSW,168,48.81,82,51.19,86,-8.11
+Sydney,1,108,Bradfield,-33.8638565,151.2092587,Sydney,97606,Sydney BRADFIELD PPVC,5,NSW,895,29.72,266,70.28,629,2.56
+Bathurst,1,109,Calare,-33.4217,149.571,Bathurst,220,Bathurst,1,NSW,1189,46.85,557,53.15,632,2.76
+Bathurst,1,109,Calare,-33.42,149.577,Bathurst,221,Bathurst Central,1,NSW,1087,46.27,503,53.73,584,-1.33
+Bathurst,1,109,Calare,-33.4163,149.58,Bathurst,31071,Bathurst City,1,NSW,1677,40.49,679,59.51,998,7.31
+Bathurst,1,109,Calare,-33.4129,149.569,Bathurst,223,Bathurst North,1,NSW,683,45.97,314,54.03,369,1.75
+Bathurst,1,109,Calare,-33.4152062,149.5788909,Bathurst,33861,Bathurst PPVC,5,NSW,13935,36.48,5084,63.52,8851,3.22
+Bathurst,1,109,Calare,-33.4337,149.569,Bathurst,225,Bathurst South,1,NSW,718,51.67,371,48.33,347,0.34
+Bathurst,1,109,Calare,-33.4118,149.559,Bathurst,227,Bathurst West,1,NSW,1481,44.97,666,55.03,815,1.93
+Dubbo,1,109,Calare,-32.2315018,148.6329645,Dubbo,83546,Dubbo CALARE PPVC,5,NSW,674,27,182,73,492,12.05
+Lithgow,1,109,Calare,-33.4818,150.16,Lithgow,262,Lithgow,1,NSW,933,54.88,512,45.12,421,2.31
+Lithgow,1,109,Calare,-33.4809335,150.1574085,Lithgow,33864,Lithgow PPVC,5,NSW,5920,40.3,2386,59.7,3534,12.29
+Mudgee,1,109,Calare,-32.5914,149.592,Mudgee,276,Mudgee,1,NSW,1062,36.35,386,63.65,676,-2.25
+Mudgee,1,109,Calare,-32.5984,149.583,Mudgee,277,Mudgee Central,1,NSW,1067,42.55,454,57.45,613,0.46
+Mudgee,1,109,Calare,-32.5901568,149.5887382,Mudgee,33888,Mudgee PPVC,5,NSW,7795,31.44,2451,68.56,5344,-0.29
+Mudgee,1,109,Calare,-32.6066,149.584,Mudgee,279,Mudgee South,1,NSW,912,32.24,294,67.76,618,3.66
+Orange,1,109,Calare,-33.2854901,149.0968798,Orange,283,Orange,1,NSW,1557,39.63,617,60.37,940,-4.49
+Orange,1,109,Calare,-33.2848161,149.1078578,Orange,284,Orange East,1,NSW,1206,46.43,560,53.57,646,-11.02
+Orange,1,109,Calare,-33.2583532,149.0726671,Orange,65686,Orange North West,1,NSW,262,26.34,69,73.66,193,-6.77
+Orange,1,109,Calare,-33.2879159,149.1018679,Orange,33863,Orange PPVC,5,NSW,12483,32.26,4027,67.74,8456,-3.56
+Orange,1,109,Calare,-33.293091,149.0970536,Orange,287,Orange South,1,NSW,1061,36.66,389,63.34,672,-4.62
+Orange,1,109,Calare,-33.2809,149.086,Orange,288,Orange West,1,NSW,1940,35.31,685,64.69,1255,-3.37
+Portland,1,109,Calare,-33.3551735,149.9792727,Portland,291,Portland,1,NSW,872,41.74,364,58.26,508,15.96
+Sydney,1,109,Calare,-33.8730501,151.2064528,Sydney,14036,Sydney (Calare),1,NSW,20,55,11,45,9,16.43
+Sydney,1,111,Chifley,-33.8730501,151.2064528,Sydney,14039,Sydney (Chifley),1,NSW,62,62.9,39,37.1,23,15.67
+Sydney,1,112,Cook,-33.8730501,151.2064528,Sydney,14040,Sydney (Cook),1,NSW,89,47.19,42,52.81,47,1.51
+Emerald,1,113,Cowper,-31.4781,152.915,Emerald,33903,Emerald Downs,1,NSW,1375,26.91,370,73.09,1005,-2.76
+Gladstone,1,113,Cowper,-31.0262943,152.9461395,Gladstone,472,Gladstone,1,NSW,586,25.6,150,74.4,436,1.47
+Kempsey,1,113,Cowper,-31.0833982,152.8467429,Kempsey,482,Kempsey East,1,NSW,721,34.12,246,65.88,475,1.83
+Kempsey,1,113,Cowper,-31.0692762,152.8261994,Kempsey,483,Kempsey Heights,1,NSW,828,40.34,334,59.66,494,0.96
+Kempsey,1,113,Cowper,-31.0772723,152.8421126,Kempsey,33678,Kempsey PPVC,5,NSW,7623,32.6,2485,67.4,5138,0.43
+Kempsey,1,113,Cowper,-31.094928,152.829606,Kempsey,485,Kempsey South,1,NSW,512,48.63,249,51.37,263,-5.74
+Kempsey,1,113,Cowper,-31.0777572,152.829924,Kempsey,486,Kempsey West,1,NSW,673,37.89,255,62.11,418,2.22
+Sydney,1,113,Cowper,-33.8730501,151.2064528,Sydney,14041,Sydney (Cowper),1,NSW,23,56.52,13,43.48,10,17.16
+Sydney,1,114,Cunningham,-33.8730501,151.2064528,Sydney,14046,Sydney (Cunningham),1,NSW,42,64.29,27,35.71,15,-0.19
+Wollongong,1,114,Cunningham,-34.4257176,150.8977103,Wollongong,565,Wollongong,1,NSW,2041,68.74,1403,31.26,638,-5.48
+Wollongong,1,114,Cunningham,-34.4260568,150.8995189,Wollongong,34033,Wollongong CUNNINGHAM PPVC,5,NSW,13517,58.03,7844,41.97,5673,0.9
+Wollongong,1,114,Cunningham,-34.4225479,150.8962167,Wollongong,83535,Wollongong East,1,NSW,471,67.73,319,32.27,152,-6.14
+Wollongong,1,114,Cunningham,-34.4192,150.895,Wollongong,568,Wollongong North,1,NSW,1976,65.94,1303,34.06,673,-5.49
+Wollongong,1,114,Cunningham,-34.4296,150.886,Wollongong,566,Wollongong South,1,NSW,1015,73,741,27,274,-3.92
+Wollongong,1,114,Cunningham,-34.4298345,150.8617242,Wollongong,551,Wollongong West,1,NSW,1623,60.07,975,39.93,648,-0.6
+Sydney,1,115,Dobell,-33.8730501,151.2064528,Sydney,14048,Sydney (Dobell),1,NSW,31,58.06,18,41.94,13,6.38
+Queanbeyan,1,117,Eden-Monaro,-35.3571625,149.2355025,Queanbeyan,717,Queanbeyan,1,NSW,1621,60.21,976,39.79,645,4.69
+Queanbeyan,1,117,Eden-Monaro,-35.353979,149.235256,Queanbeyan,718,Queanbeyan Central,1,NSW,931,60.79,566,39.21,365,-0.72
+Queanbeyan,1,117,Eden-Monaro,-35.3445,149.246,Queanbeyan,719,Queanbeyan East,1,NSW,1796,57.91,1040,42.09,756,-2.79
+Queanbeyan,1,117,Eden-Monaro,-35.3527,149.222,Queanbeyan,720,Queanbeyan Heights,1,NSW,993,63.14,627,36.86,366,-1.73
+Queanbeyan,1,117,Eden-Monaro,-35.35234,149.23094,Queanbeyan,722,Queanbeyan North,1,NSW,996,60.04,598,39.96,398,3.58
+Queanbeyan,1,117,Eden-Monaro,-35.3526312,149.2342423,Queanbeyan,33925,Queanbeyan PPVC,5,NSW,11980,52.78,6323,47.22,5657,2.76
+Queanbeyan,1,117,Eden-Monaro,-35.3655795,149.229151,Queanbeyan,723,Queanbeyan South,1,NSW,1537,60.96,937,39.04,600,4.86
+Queanbeyan,1,117,Eden-Monaro,-35.3478,149.215,Queanbeyan,724,Queanbeyan West,1,NSW,1361,61.94,843,38.06,518,-0.32
+Sydney,1,117,Eden-Monaro,-33.8730501,151.2064528,Sydney,14051,Sydney (Eden-Monaro),1,NSW,10,90,9,10,1,-33.48
+Albury,1,118,Farrer,-36.0830081,146.9188145,Albury,746,Albury,1,NSW,1851,43,796,57,1055,-4.25
+Albury,1,118,Farrer,-36.0732767,146.9167639,Albury,748,Albury Central,1,NSW,1139,40.39,460,59.61,679,-2.55
+Albury,1,118,Farrer,-36.0711246,146.9383558,Albury,747,Albury East,1,NSW,714,38.38,274,61.62,440,-3.23
+Albury,1,118,Farrer,-36.0798003,146.9233189,Albury,34273,Albury FARRER PPVC,5,NSW,13273,31.91,4236,68.09,9037,-2.29
+Albury,1,118,Farrer,-36.0641,146.932,Albury,751,Albury North,1,NSW,1556,41.2,641,58.8,915,0.21
+Albury,1,118,Farrer,-36.0783,146.895,Albury,752,Albury West,1,NSW,1057,36.8,389,63.2,668,-5.16
+Echuca,1,118,Farrer,-36.1278663,144.7482858,Echuca,65218,Echuca FARRER PPVC,5,NSW,2165,22.12,479,77.88,1686,-0.75
+Griffith,1,118,Farrer,-34.2864,146.041,Griffith,2508,Griffith,1,NSW,1467,30.95,454,69.05,1013,3.99
+Griffith,1,118,Farrer,-34.2931498,146.0491823,Griffith,58769,Griffith Central PPVC,5,NSW,226,32.3,73,67.7,153,40.16
+Griffith,1,118,Farrer,-34.282,146.07,Griffith,2502,Griffith Driver,1,NSW,1290,29.53,381,70.47,909,1.29
+Griffith,1,118,Farrer,-34.2803,146.048,Griffith,2511,Griffith North,1,NSW,1166,27.44,320,72.56,846,2.23
+Griffith,1,118,Farrer,-34.286557,146.0413659,Griffith,33855,Griffith PPVC,5,NSW,5419,26.57,1440,73.43,3979,2.78
+Griffith,1,118,Farrer,-34.2916,146.041,Griffith,2512,Griffith West,1,NSW,785,36.05,283,63.95,502,8.5
+Mildura,1,118,Farrer,-34.1861175,142.1642546,Mildura,65225,Mildura FARRER PPVC,5,NSW,794,21.03,167,78.97,627,-4.1
+Moama,1,118,Farrer,-36.114623,144.7623497,Moama,815,Moama,1,NSW,1306,26.03,340,73.97,966,-2.37
+Sydney,1,118,Farrer,-33.8730501,151.2064528,Sydney,14055,Sydney (Farrer),1,NSW,8,37.5,3,62.5,5,9.14
+Wentworth,1,118,Farrer,-34.103,141.919,Wentworth,849,Wentworth,1,NSW,710,29.44,209,70.56,501,-2.39
+Sydney,1,119,Fowler,-33.8730501,151.2064528,Sydney,14058,Sydney (Fowler),1,NSW,75,72,54,28,21,-2.26
+Warwick,1,119,Fowler,-33.9106,150.929,Warwick,896,Warwick Farm,1,NSW,1043,74.21,774,25.79,269,0.61
+Sydney,1,120,Gilmore,-33.8730501,151.2064528,Sydney,14061,Sydney (Gilmore),1,NSW,29,48.28,14,51.72,15,10.98
+Nowra,1,120,Gilmore,-34.9361,150.566,Nowra,952,Nowra Hill,1,NSW,458,50,229,50,229,-4.56
+Nowra,1,120,Gilmore,-34.8557,150.577,Nowra,33136,Nowra North,1,NSW,731,52.26,382,47.74,349,-6.71
+Nowra,1,120,Gilmore,-34.8746,150.6,Nowra,963,Nowra Centre,1,NSW,1068,61.61,658,38.39,410,-8.89
+Nowra,1,120,Gilmore,-34.8833174,150.6080309,Nowra,951,Nowra East,1,NSW,1100,63.91,703,36.09,397,-2.32
+Nowra,1,120,Gilmore,-34.8597,150.59,Nowra,954,Nowra Bomaderry,1,NSW,1430,51.54,737,48.46,693,-1.21
+Nowra,1,120,Gilmore,-34.8962,150.61,Nowra,31484,Nowra South,1,NSW,1253,60.34,756,39.66,497,-1.86
+Nowra,1,120,Gilmore,-34.8795,150.601,Nowra,950,Nowra,1,NSW,1379,61.78,852,38.22,527,-2.71
+Ulladulla,1,120,Gilmore,-35.3562,150.474,Ulladulla,732,Ulladulla,1,NSW,1770,55.42,981,44.58,789,-1.55
+Bomaderry,1,120,Gilmore,-34.8486,150.608,Bomaderry,2777,Bomaderry,1,NSW,1692,58.98,998,41.02,694,-6.59
+Sydney,1,121,Grayndler,-33.8730501,151.2064528,Sydney,14079,Sydney (Grayndler),1,NSW,327,73.09,239,26.91,88,4.94
+Sydney,1,122,Greenway,-33.8730501,151.2064528,Sydney,14082,Sydney (Greenway),1,NSW,85,64.71,55,35.29,30,-0.42
+Sydney,1,124,Hughes,-33.8730501,151.2064528,Sydney,14089,Sydney (Hughes),1,NSW,76,47.37,36,52.63,40,5.33
+Sydney,1,125,Hume,-33.8730501,151.2064528,Sydney,14092,Sydney (Hume),1,NSW,34,26.47,9,73.53,25,20.2
+Goulburn,1,125,Hume,-34.7592,149.701,Goulburn,930,Goulburn West,1,NSW,909,40.15,365,59.85,544,0.66
+Goulburn,1,125,Hume,-34.7471232,149.7323433,Goulburn,928,Goulburn North,1,NSW,918,44.23,406,55.77,512,4.54
+Goulburn,1,125,Hume,-34.7501,149.72,Goulburn,924,Goulburn,1,NSW,1206,49.59,598,50.41,608,1.98
+Goulburn,1,125,Hume,-34.7463978,149.7113803,Goulburn,926,Goulburn Heights,1,NSW,1528,46.34,708,53.66,820,-0.72
+Goulburn,1,125,Hume,-34.7588,149.712,Goulburn,929,Goulburn South,1,NSW,1885,42.81,807,57.19,1078,2.84
+Sydney,1,126,Hunter,-33.8730501,151.2064528,Sydney,14096,Sydney (Hunter),1,NSW,17,82.35,14,17.65,3,-13.12
+Singleton,1,126,Hunter,-32.5632987,151.1709577,Singleton,1417,Singleton,1,NSW,743,46.57,346,53.43,397,8.33
+Morisset,1,126,Hunter,-33.1116124,151.5644421,Morisset,609,Morisset Peninsula,1,NSW,696,56.03,390,43.97,306,1.53
+Cooranbong,1,126,Hunter,-33.0789224,151.4411654,Cooranbong,340,Cooranbong,1,NSW,1047,52.05,545,47.95,502,5.77
+Muswellbrook,1,126,Hunter,-32.2667,150.8926,Muswellbrook,1131,Muswellbrook,1,NSW,1104,53.35,589,46.65,515,8.01
+Morisset,1,126,Hunter,-33.1029,151.489,Morisset,362,Morisset,1,NSW,1182,54.4,643,45.6,539,7.38
+Singleton,1,126,Hunter,-32.5684,151.177,Singleton,1421,Singleton South,1,NSW,1376,52.18,718,47.82,658,3.88
+Muswellbrook,1,126,Hunter,-32.2818,150.896,Muswellbrook,1132,Muswellbrook East,1,NSW,1724,51.16,882,48.84,842,15.02
+Singleton,1,126,Hunter,-32.5488028,151.1633134,Singleton,1418,Singleton Heights,1,NSW,1971,50.03,986,49.97,985,8.26
+Sydney,1,127,Kingsford Smith,-33.8730501,151.2064528,Sydney,31032,Sydney (Kingsford Smith),1,NSW,234,63.68,149,36.32,85,5.52
+Sydney,1,128,Lindsay,-33.8730501,151.2064528,Sydney,32328,Sydney (Lindsay),1,NSW,44,68.18,30,31.82,14,-3.89
+Sydney,1,130,Lyne,-33.8730501,151.2064528,Sydney,14111,Sydney (Lyne),1,NSW,19,42.11,8,57.89,11,-0.93
+Taree,1,130,Lyne,-31.892,152.461,Taree,1645,Taree North,1,NSW,618,49.03,303,50.97,315,-2.05
+Forster,1,130,Lyne,-32.2137,152.538,Forster,31457,Forster Keys,1,NSW,902,36.25,327,63.75,575,1.35
+Forster,1,130,Lyne,-32.1794,152.51,Forster,1587,Forster East,1,NSW,947,39.07,370,60.93,577,6.91
+Taree,1,130,Lyne,-31.9071173,152.44497,Taree,1646,Taree West,1,NSW,1758,33.22,584,66.78,1174,3.08
+Tuncurry,1,130,Lyne,-32.1598,152.487,Tuncurry,1650,Tuncurry,1,NSW,1755,35.38,621,64.62,1134,4.62
+Forster,1,130,Lyne,-32.2015435,152.5195431,Forster,1588,Forster South,1,NSW,1597,42.58,680,57.42,917,-0.98
+Taree,1,130,Lyne,-31.90975,152.46338,Taree,1642,Taree,1,NSW,1797,40.07,720,59.93,1077,0.36
+Sydney,1,131,Macarthur,-33.8730501,151.2064528,Sydney,14113,Sydney (Macarthur),1,NSW,60,73.33,44,26.67,16,-5.33
+Sydney,1,132,Mackellar,-33.8730501,151.2064528,Sydney,31629,Sydney (Mackellar),1,NSW,51,58.82,30,41.18,21,-8.82
+Sydney,1,133,Macquarie,-33.8730501,151.2064528,Sydney,14123,Sydney (Macquarie),1,NSW,67,59.7,40,40.3,27,5.61
+Wentworth,1,133,Macquarie,-33.71436,150.37255,Wentworth,1812,Wentworth Falls,1,NSW,2061,67.44,1390,32.56,671,-3.06
+Sydney,1,315,McMahon,-33.8730501,151.2064528,Sydney,14145,Sydney (McMahon),1,NSW,71,60.56,43,39.44,28,1.34
+Sydney,1,134,Mitchell,-33.8730501,151.2064528,Sydney,14125,Sydney (Mitchell),1,NSW,105,44.76,47,55.24,58,-3.35
+Sydney,1,135,New England,-33.8730501,151.2064528,Sydney,14131,Sydney (New England),1,NSW,17,58.82,10,41.18,7,-0.49
+Tamworth,1,135,New England,-31.1105102,150.8954636,Tamworth,46486,Tamworth Coledale,1,NSW,381,50.39,192,49.61,189,7.4
+Tamworth,1,135,New England,-31.0719765,150.9185457,Tamworth,34947,Tamworth North,1,NSW,915,35.19,322,64.81,593,-0.33
+Tamworth,1,135,New England,-31.0854243,150.9285586,Tamworth,1977,Tamworth,1,NSW,971,36.35,353,63.65,618,-1.42
+Tamworth,1,135,New England,-31.092,150.921,Tamworth,1981,Tamworth West,1,NSW,1128,36.08,407,63.92,721,4.67
+Armidale,1,135,New England,-30.5193,151.664,Armidale,1916,Armidale South,1,NSW,1051,54.52,573,45.48,478,-3.4
+Tamworth,1,135,New England,-31.0831323,150.9375526,Tamworth,1980,Tamworth East,1,NSW,1721,36.66,631,63.34,1090,-2.06
+Armidale,1,135,New England,-30.5146,151.666,Armidale,1913,Armidale,1,NSW,1499,50.77,761,49.23,738,2.93
+Armidale,1,135,New England,-30.5108727,151.6507081,Armidale,1918,Armidale West,1,NSW,1591,48.77,776,51.23,815,-5.08
+Tamworth,1,135,New England,-31.1045,150.917,Tamworth,1978,Tamworth South,1,NSW,2105,45.61,960,54.39,1145,-1.45
+Sydney,1,136,Newcastle,-33.8730501,151.2064528,Sydney,14128,Sydney (Newcastle),1,NSW,36,61.11,22,38.89,14,-3.97
+Newcastle,1,136,Newcastle,-32.9304,151.777,Newcastle,1889,Newcastle City,1,NSW,1344,64.58,868,35.42,476,-4.73
+Sydney,1,137,North Sydney,-33.8730501,151.2064528,Sydney,14135,Sydney (North Sydney),1,NSW,242,52.89,128,47.11,114,-5.41
+Sydney,1,138,Page,-33.8730501,151.2064528,Sydney,14137,Sydney (Page),1,NSW,18,50,9,50,9,2.63
+Grafton,1,138,Page,-29.6441,152.921,Grafton,2089,Grafton North,1,NSW,578,28.72,166,71.28,412,9.18
+Lismore,1,138,Page,-28.7986667,153.2782919,Lismore,2448,Lismore North,1,NSW,440,56.14,247,43.86,193,2.33
+Lismore,1,138,Page,-28.81303,153.2738827,Lismore,97628,Lismore City,1,NSW,520,58.65,305,41.35,215,0.95
+Lismore,1,138,Page,-28.8032218,153.2837704,Lismore,2444,Lismore Central,1,NSW,700,51.57,361,48.43,339,9.2
+Grafton,1,138,Page,-29.6720097,152.9362119,Grafton,2080,Grafton,1,NSW,1240,30.73,381,69.27,859,13.91
+Grafton,1,138,Page,-29.6891,152.937,Grafton,2078,Grafton East,1,NSW,1030,40.1,413,59.9,617,10.39
+Lismore,1,138,Page,-28.8069169,153.3012672,Lismore,2446,Lismore Heights,1,NSW,862,52.55,453,47.45,409,0.85
+Lismore,1,138,Page,-28.8096,153.262,Lismore,2450,Lismore South,1,NSW,1117,48.97,547,51.03,570,7.66
+Grafton,1,138,Page,-29.6818682,152.9332865,Grafton,2077,Grafton Central,1,NSW,1631,41.51,677,58.49,954,10.15
+Lismore,1,138,Page,-28.8214,153.296,Lismore,2445,Lismore East,1,NSW,1453,53.06,771,46.94,682,4.94
+Lismore,1,138,Page,-28.810981,153.2773429,Lismore,2443,Lismore,1,NSW,1606,57.41,922,42.59,684,6.18
+Sydney,1,139,Parkes,-33.8730501,151.2064528,Sydney,14140,Sydney (Parkes),1,NSW,25,52,13,48,12,-40.24
+Dubbo,1,139,Parkes,-32.263018,148.644601,Dubbo,83502,Dubbo Blue Ridge,1,NSW,351,25.93,91,74.07,260,6.86
+Dubbo,1,139,Parkes,-32.2685798,148.6116393,Dubbo,2175,Dubbo Grove,1,NSW,1161,30.66,356,69.34,805,-1.07
+Dubbo,1,139,Parkes,-32.2456906,148.6019764,Dubbo,2174,Dubbo,1,NSW,1183,35,414,65,769,-3.01
+Dubbo,1,139,Parkes,-32.2408,148.616,Dubbo,2177,Dubbo North,1,NSW,1506,31.14,469,68.86,1037,-0.16
+Dubbo,1,139,Parkes,-32.2509,148.583,Dubbo,2179,Dubbo West,1,NSW,1781,31.84,567,68.16,1214,3.16
+Dubbo,1,139,Parkes,-32.26,148.611,Dubbo,2178,Dubbo South,1,NSW,1761,36.63,645,63.37,1116,-3.44
+Dubbo,1,139,Parkes,-32.242932,148.6393146,Dubbo,32061,Dubbo East,1,NSW,1990,36.33,723,63.67,1267,-2.39
+Sydney,1,140,Parramatta,-33.8730501,151.2064528,Sydney,14141,Sydney (Parramatta),1,NSW,132,62.88,83,37.12,49,1.5
+Sydney,1,249,Paterson,-33.8730501,151.2064528,Sydney,14143,Sydney (Paterson),1,NSW,11,72.73,8,27.27,3,-19.4
+Maitland,1,249,Paterson,-32.7368211,151.5603957,Maitland,1385,Maitland,1,NSW,1170,64.27,752,35.73,418,3.44
+Sydney,1,144,Reid,-33.8730501,151.2064528,Sydney,14108,Sydney (Reid),1,NSW,260,54.62,142,45.38,118,0.22
+Wentworth,1,144,Reid,-33.8319,151.074,Wentworth,46751,Wentworth Point,1,NSW,2490,50.72,1263,49.28,1227,-3.53
+Sydney,1,145,Richmond,-33.8730501,151.2064528,Sydney,14150,Sydney (Richmond),1,NSW,24,62.5,15,37.5,9,-18.75
+Ballina,1,145,Richmond,-28.8435477,153.543193,Ballina,83038,Ballina North,1,NSW,450,50.44,227,49.56,223,2.25
+Ballina,1,145,Richmond,-28.8622085,153.5308355,Ballina,2047,Ballina West,1,NSW,759,45.45,345,54.55,414,3.08
+Ballina,1,145,Richmond,-28.850835,153.5869075,Ballina,2045,Ballina East,1,NSW,1095,51.51,564,48.49,531,-1.32
+Ballina,1,145,Richmond,-28.8676,153.565,Ballina,2044,Ballina,1,NSW,2525,57.62,1455,42.38,1070,-2.57
+Sydney,1,250,Riverina,-33.8730501,151.2064528,Sydney,14153,Sydney (Riverina),1,NSW,20,50,10,50,10,-18.42
+Parkes,1,250,Riverina,-33.1303,148.18,Parkes,2217,Parkes North,1,NSW,460,30.43,140,69.57,320,6.44
+Parkes,1,250,Riverina,-33.1351,148.17,Parkes,2222,Parkes West,1,NSW,808,25.5,206,74.5,602,4.08
+Parkes,1,250,Riverina,-33.1478,148.173,Parkes,2221,Parkes South,1,NSW,783,28.74,225,71.26,558,10.41
+Parkes,1,250,Riverina,-33.1354,148.19,Parkes,2216,Parkes East,1,NSW,1213,25.89,314,74.11,899,6.45
+Parkes,1,250,Riverina,-33.1321314,148.1762981,Parkes,2215,Parkes,1,NSW,947,35.59,337,64.41,610,-2.28
+Sydney,1,146,Robertson,-33.8730501,151.2064528,Sydney,14154,Sydney (Robertson),1,NSW,42,59.52,25,40.48,17,-6.58
+Sydney,1,148,Shortland,-33.8730501,151.2064528,Sydney,14156,Sydney (Shortland),1,NSW,29,68.97,20,31.03,9,4.71
+Sydney,1,149,Sydney,-33.8730501,151.2064528,Sydney,14165,Sydney (Sydney),1,NSW,3279,54.41,1784,45.59,1495,-3.11
+Sydney,1,151,Warringah,-33.8730501,151.2064528,Sydney,31263,Sydney (Warringah),1,NSW,116,58.62,68,41.38,48,-2.82
+Sydney,1,251,Watson,-33.8730501,151.2064528,Sydney,14175,Sydney (Watson),1,NSW,148,68.24,101,31.76,47,-5.82
+Sydney,1,152,Wentworth,-33.8730501,151.2064528,Sydney,31648,Sydney (Wentworth),1,NSW,196,62.24,122,37.76,74,-15.16
+Sydney,1,153,Werriwa,-33.8730501,151.2064528,Sydney,31638,Sydney (Werriwa),1,NSW,82,54.88,45,45.12,37,7.94
+Sydney,1,150,Whitlam,-33.8730501,151.2064528,Sydney,14170,Sydney (Whitlam),1,NSW,38,71.05,27,28.95,11,28.95
+Bowral,1,150,Whitlam,-34.4942,150.447,Bowral,38312,Bowral East,1,NSW,999,36.64,366,63.36,633,63.36
+Bowral,1,150,Whitlam,-34.4889,150.424,Bowral,2780,Bowral South,1,NSW,958,42.17,404,57.83,554,57.83
+Mittagong,1,150,Whitlam,-34.4556265,150.448397,Mittagong,2799,Mittagong South,1,NSW,912,51.21,467,48.79,445,48.79
+Bowral,1,150,Whitlam,-34.4798725,150.4203705,Bowral,2779,Bowral,1,NSW,1889,41.66,787,58.34,1102,58.34
+Mittagong,1,150,Whitlam,-34.448436,150.4443996,Mittagong,2798,Mittagong,1,NSW,1792,50,896,50,896,50
+Darwin,1,307,Solomon,-12.4589,130.836,Darwin,8709,Darwin,1,NT,1612,54.22,874,45.78,738,-1.03
+Brisbane,1,310,Bonner,-27.469,153.023,Brisbane,37108,Brisbane City (Bonner),1,QLD,88,52.27,46,47.73,42,-0.17
+Brisbane,1,155,Bowman,-27.469,153.023,Brisbane,31069,Brisbane City (Bowman),1,QLD,1,0,0,100,1,48.08
+Brisbane,1,156,Brisbane,-27.469,153.023,Brisbane,5566,Brisbane City (Brisbane),1,QLD,1836,56.86,1044,43.14,792,-6.16
+Yeppoon,1,157,Capricornia,-23.1179196,150.7285967,Yeppoon,32525,Yeppoon North,1,QLD,447,35.79,160,64.21,287,7.21
+Rockhampton,1,157,Capricornia,-23.375583,150.510157,Rockhampton,5265,Rockhampton City,1,QLD,654,42.51,278,57.49,376,11.58
+Rockhampton,1,157,Capricornia,-23.3985703,150.5008829,Rockhampton,5271,Rockhampton Range,1,QLD,908,32.05,291,67.95,617,6.74
+Yeppoon,1,157,Capricornia,-23.1285704,150.7457414,Yeppoon,5281,Yeppoon,1,QLD,1540,36.17,557,63.83,983,14.04
+Rockhampton,1,157,Capricornia,-23.3696368,150.4996182,Rockhampton,5277,Rockhampton South,1,QLD,1459,47.02,686,52.98,773,9.97
+Mackay,1,158,Dawson,-21.1224859,149.1869842,Mackay,5324,Mackay Goose Ponds,1,QLD,938,43.71,410,56.29,528,11.94
+Mackay,1,158,Dawson,-21.146,149.182,Mackay,5340,Mackay,1,QLD,1026,43.57,447,56.43,579,7.97
+Mackay,1,158,Dawson,-21.1525,149.164,Mackay,5344,Mackay West,1,QLD,1326,37.78,501,62.22,825,12.83
+Mackay,1,158,Dawson,-21.1548,149.184,Mackay,5343,Mackay South,1,QLD,1355,38.08,516,61.92,839,16.23
+Mackay,1,158,Dawson,-21.1477,149.194,Mackay,5375,Mackay Town Beach,1,QLD,1508,40.85,616,59.15,892,15.84
+Brisbane,1,252,Dickson,-27.469,153.023,Brisbane,14202,Brisbane City (Dickson),1,QLD,63,55.56,35,44.44,28,-3.39
+Albany,1,252,Dickson,-27.349026,152.9708538,Albany,83945,Albany Creek,1,QLD,592,39.19,232,60.81,360,3.65
+Albany,1,252,Dickson,-27.3608,152.973,Albany,46365,Albany Hills,1,QLD,1659,41.47,688,58.53,971,-0.81
+Albany,1,252,Dickson,-27.3462,152.97,Albany,5455,Albany Creek North,1,QLD,2093,45.91,961,54.09,1132,-1.65
+Albany,1,252,Dickson,-27.3569,152.969,Albany,6396,Albany Creek South,1,QLD,2345,41.11,964,58.89,1381,-4.03
+Bundaberg,1,311,Flynn,-24.8518031,152.3398805,Bundaberg,82909,Bundaberg North West (Flynn),1,QLD,186,46.24,86,53.76,100,5
+Emerald,1,311,Flynn,-23.5322082,148.1518775,Emerald,31633,Emerald South,1,QLD,829,27.74,230,72.26,599,14.57
+Emerald,1,311,Flynn,-23.525909,148.1603087,Emerald,6151,Emerald,1,QLD,882,29.37,259,70.63,623,9.41
+Emerald,1,311,Flynn,-23.5130396,148.1646835,Emerald,6152,Emerald North,1,QLD,1070,35.61,381,64.39,689,7.84
+Gladstone,1,311,Flynn,-23.8598404,151.2516106,Gladstone,5756,Gladstone West,1,QLD,875,59.66,522,40.34,353,7.24
+Gladstone,1,311,Flynn,-23.841766,151.2575691,Gladstone,5753,Gladstone,1,QLD,1015,57.04,579,42.96,436,4.31
+Gladstone,1,311,Flynn,-23.8619,151.27,Gladstone,5755,Gladstone South,1,QLD,1116,60.3,673,39.7,443,10.54
+Brisbane,1,163,Griffith,-27.469,153.023,Brisbane,14217,Brisbane City (Griffith),1,QLD,551,63.88,352,36.12,199,-9.71
+Toowoomba,1,164,Groom,-27.5729549,151.9559357,Toowoomba,5635,Toowoomba South,1,QLD,563,40.5,228,59.5,335,-0.47
+Toowoomba,1,164,Groom,-27.5653,151.953,Toowoomba,5640,Toowoomba City,1,QLD,636,40.25,256,59.75,380,2.28
+Toowoomba,1,164,Groom,-27.5509679,151.9465033,Toowoomba,5642,Toowoomba North,1,QLD,786,38.42,302,61.58,484,9.07
+Toowoomba,1,164,Groom,-27.556623,151.94918,Toowoomba,5644,Toowoomba Taylor St,1,QLD,864,41.55,359,58.45,505,9.17
+Toowoomba,1,164,Groom,-27.5657969,151.9274509,Toowoomba,5645,Toowoomba West,1,QLD,1120,38.75,434,61.25,686,6.58
+Toowoomba,1,164,Groom,-27.55994,151.966173,Toowoomba,5641,Toowoomba East,1,QLD,1927,35.65,687,64.35,1240,1.04
+Townsville,1,165,Herbert,-19.2631,146.827,Townsville,5692,Townsville South,1,QLD,898,46.99,422,53.01,476,5.52
+Bundaberg,1,166,Hinkler,-24.8518031,152.3398805,Bundaberg,5782,Bundaberg North West (Hinkler),1,QLD,654,43.73,286,56.27,368,2.55
+Bundaberg,1,166,Hinkler,-24.8564954,152.345556,Bundaberg,5734,Bundaberg North,1,QLD,690,42.61,294,57.39,396,6.37
+Bundaberg,1,166,Hinkler,-24.8762441,152.3335869,Bundaberg,82904,Bundaberg West,1,QLD,663,46,305,54,358,1.63
+Bundaberg,1,166,Hinkler,-24.8669736,152.3509714,Bundaberg,82905,Bundaberg Central,1,QLD,944,42.58,402,57.42,542,6.07
+Bundaberg,1,166,Hinkler,-24.8614,152.373,Bundaberg,5732,Bundaberg East,1,QLD,1051,41.96,441,58.04,610,2.35
+Bundaberg,1,166,Hinkler,-24.8710288,152.360673,Bundaberg,5736,Bundaberg South,1,QLD,1105,47.24,522,52.76,583,2.82
+Cairns,1,168,Leichhardt,-16.9147712,145.7671082,Cairns,5934,Cairns City,1,QLD,1288,50.62,652,49.38,636,-0.62
+Cairns,1,168,Leichhardt,-16.9225,145.743,Cairns,5938,Cairns West,1,QLD,1242,58.62,728,41.38,514,-1.51
+Brisbane,1,169,Lilley,-27.469,153.023,Brisbane,14225,Brisbane City (Lilley),1,QLD,29,51.72,15,48.28,14,10.39
+Warwick,1,170,Maranoa,-28.2264519,152.0333118,Warwick,6484,Warwick South,1,QLD,312,19.23,60,80.77,252,11.25
+Kingaroy,1,170,Maranoa,-26.5427,151.829,Kingaroy,6588,Kingaroy,1,QLD,752,33.51,252,66.49,500,9.94
+Kingaroy,1,170,Maranoa,-26.5364,151.856,Kingaroy,38266,Kingaroy East,1,QLD,1124,26.87,302,73.13,822,7.44
+Warwick,1,170,Maranoa,-28.2205,152.014,Warwick,6485,Warwick West,1,QLD,986,31.44,310,68.56,676,7.01
+Warwick,1,170,Maranoa,-28.2145,152.04,Warwick,6483,Warwick East,1,QLD,1067,29.43,314,70.57,753,6.61
+Warwick,1,170,Maranoa,-28.2116,152.033,Warwick,6482,Warwick,1,QLD,1136,32.92,374,67.08,762,8.36
+Brisbane,1,173,Moreton,-27.469,153.023,Brisbane,14229,Brisbane City (Moreton),1,QLD,174,62.64,109,37.36,65,-3.82
+Brisbane,1,174,Oxley,-27.469,153.023,Brisbane,14230,Brisbane City (Oxley),1,QLD,0,0,0,0,0,-39.8
+Brisbane,1,175,Petrie,-27.469,153.023,Brisbane,14231,Brisbane City (Petrie),1,QLD,47,55.32,26,44.68,21,0.39
+Brisbane,1,176,Rankin,-27.469,153.023,Brisbane,14232,Brisbane City (Rankin),1,QLD,14,64.29,9,35.71,5,0.42
+Brisbane,1,177,Ryan,-27.469,153.023,Brisbane,14233,Brisbane City (Ryan),1,QLD,66,66.67,44,33.33,22,-13.97
+Gympie,1,178,Wide Bay,-26.1795131,152.7328605,Gympie,6557,Gympie East,1,QLD,332,34.04,113,65.96,219,3.03
+Gympie,1,178,Wide Bay,-26.1752,152.656,Gympie,6578,Gympie North,1,QLD,877,37.17,326,62.83,551,11.19
+Maryborough,1,178,Wide Bay,-25.5225,152.694,Maryborough,6610,Maryborough West,1,QLD,1137,46.35,527,53.65,610,7.02
+Gympie,1,178,Wide Bay,-26.1883904,152.6668328,Gympie,6572,Gympie Central,1,QLD,1525,40.98,625,59.02,900,8.52
+Maryborough,1,178,Wide Bay,-25.5390928,152.7011422,Maryborough,6598,Maryborough,1,QLD,1485,45.79,680,54.21,805,8.64
+Adelaide,1,179,Adelaide,-34.9218994,138.5980605,Adelaide,6648,Adelaide (Adelaide),1,SA,537,64.06,344,35.94,193,0.77
+Adelaide,1,179,Adelaide,-34.9292559,138.5879639,Adelaide,83454,Adelaide West,1,SA,714,70.03,500,29.97,214,-7.63
+Adelaide,1,179,Adelaide,-34.92788,138.60935,Adelaide,6649,Adelaide East,1,SA,1177,57.26,674,42.74,503,0.65
+Adelaide,1,179,Adelaide,-34.934185,138.604438,Adelaide,6651,Adelaide South,1,SA,2129,61.95,1319,38.05,810,-0.07
+Adelaide,1,180,Barker,-34.9218994,138.5980605,Adelaide,83576,Adelaide (Barker),1,SA,33,45.45,15,54.55,18,-0.71
+Adelaide,1,182,Boothby,-34.9218994,138.5980605,Adelaide,82892,Adelaide (Boothby),1,SA,99,68.69,68,31.31,31,-16.66
+Adelaide,1,183,Grey,-34.9218994,138.5980605,Adelaide,83577,Adelaide (Grey),1,SA,57,43.86,25,56.14,32,0.43
+Gladstone,1,183,Grey,-33.2675417,138.35554,Gladstone,7361,Gladstone,1,SA,358,37.15,133,62.85,225,5.1
+Maitland,1,183,Grey,-34.3689,137.672,Maitland,7379,Maitland,1,SA,682,24.93,170,75.07,512,2.11
+Whyalla,1,183,Grey,-33.0361,137.585,Whyalla,6977,Whyalla Central East,1,SA,733,48.98,359,51.02,374,8.6
+Whyalla,1,183,Grey,-33.034,137.568,Whyalla,6981,Whyalla Central West,1,SA,1063,57.1,607,42.9,456,8.37
+Whyalla,1,183,Grey,-33.0197,137.546,Whyalla,6979,Whyalla Norrie North,1,SA,1214,59.31,720,40.69,494,11.89
+Whyalla,1,183,Grey,-33.0391,137.532,Whyalla,6980,Whyalla Norrie South,1,SA,1205,61.49,741,38.51,464,10.62
+Whyalla,1,183,Grey,-33.0286,137.55,Whyalla,6983,Whyalla Norrie East,1,SA,1313,56.74,745,43.26,568,12.26
+Whyalla,1,183,Grey,-33.0153,137.517,Whyalla,6982,Whyalla Stuart West,1,SA,1220,61.31,748,38.69,472,11.61
+Adelaide,1,185,Hindmarsh,-34.9218994,138.5980605,Adelaide,82853,Adelaide (Hindmarsh),1,SA,104,69.23,72,30.77,32,-11.63
+Adelaide,1,186,Kingston,-34.9218994,138.5980605,Adelaide,82893,Adelaide (Kingston),1,SA,63,71.43,45,28.57,18,-9.11
+Adelaide,1,187,Makin,-34.9218994,138.5980605,Adelaide,82839,Adelaide (Makin),1,SA,81,62.96,51,37.04,30,1.64
+Adelaide,1,188,Mayo,-34.9218994,138.5980605,Adelaide,82894,Adelaide (Mayo),1,SA,38,47.37,18,52.63,20,6.98
+Goolwa,1,188,Mayo,-35.5044,138.779,Goolwa,46417,Goolwa Central,1,SA,1281,46.99,602,53.01,679,-0.57
+Goolwa,1,188,Mayo,-35.4979,138.78,Goolwa,7179,Goolwa,1,SA,1816,44.77,813,55.23,1003,2.64
+Adelaide,1,325,Spence,-34.9218994,138.5980605,Adelaide,82842,Adelaide (Spence),1,SA,81,69.14,56,30.86,25,-2.47
+Adelaide,1,190,Sturt,-34.9218994,138.5980605,Adelaide,82855,Adelaide (Sturt),1,SA,114,62.28,71,37.72,43,-7.39
+Gladstone,1,192,Bass,-40.9601,148.008,Gladstone,8303,Gladstone,1,TAS,125,44,55,56,70,9.06
+Launceston,1,192,Bass,-41.4366,147.137,Launceston,8311,Launceston,1,TAS,963,57.94,558,42.06,405,4.32
+Launceston,1,192,Bass,-41.4421509,147.1368194,Launceston,8312,Launceston Central,1,TAS,1603,53.34,855,46.66,748,2.69
+Devonport,1,193,Braddon,-41.1737,146.344,Devonport,83767,Devonport,1,TAS,634,48.26,306,51.74,328,5.42
+Ulverstone,1,193,Braddon,-41.1546,146.192,Ulverstone,8426,Ulverstone East,1,TAS,753,42.9,323,57.1,430,6.61
+Ulverstone,1,193,Braddon,-41.15507,146.171931,Ulverstone,8425,Ulverstone Central,1,TAS,947,43.61,413,56.39,534,2.05
+Burnie,1,193,Braddon,-41.0532,145.906,Burnie,8365,Burnie,1,TAS,1070,51.12,547,48.88,523,7.68
+Wynyard,1,193,Braddon,-40.9867,145.717,Wynyard,8433,Wynyard West,1,TAS,1125,48.62,547,51.38,578,8.75
+Devonport,1,193,Braddon,-41.179983,146.3598459,Devonport,8371,Devonport Central,1,TAS,1126,50,563,50,563,3.26
+Devonport,1,193,Braddon,-41.1864,146.345,Devonport,8432,Devonport West,1,TAS,1091,52.15,569,47.85,522,3.68
+Devonport,1,193,Braddon,-41.1893,146.349,Devonport,34286,Devonport South,1,TAS,1144,52.62,602,47.38,542,7.49
+Ulverstone,1,193,Braddon,-41.16201,146.17091,Ulverstone,8427,Ulverstone South,1,TAS,1626,47.36,770,52.64,856,6.51
+Wynyard,1,193,Braddon,-40.9909,145.729,Wynyard,8435,Wynyard Central,1,TAS,1897,45.33,860,54.67,1037,7.59
+Devonport,1,193,Braddon,-41.1728,146.337,Devonport,8401,Devonport North West,1,TAS,1993,50.78,1012,49.22,981,2.96
+Hobart,1,319,Clark,-42.8852235,147.327458,Hobart,8461,Hobart City (Clark),1,TAS,910,74.84,681,25.16,229,-4.02
+Hobart,1,195,Franklin,-42.8852235,147.327458,Hobart,83941,Hobart City (Franklin),1,TAS,251,69.32,174,30.68,77,-4.8
+Perth,1,196,Lyons,-41.5725,147.173,Perth,8644,Perth,1,TAS,1728,48.5,838,51.5,890,-1.13
+Ballarat,1,198,Ballarat,-37.5779312,143.8374336,Ballarat,2993,Ballarat South,1,VIC,910,69.12,629,30.88,281,-1.98
+Ballarat,1,198,Ballarat,-37.5613748,143.8606094,Ballarat,2986,Ballarat,1,VIC,1283,66.8,857,33.2,426,-1.26
+Ballarat,1,198,Ballarat,-37.54,143.863,Ballarat,2990,Ballarat North,1,VIC,1424,64.19,914,35.81,510,-4.38
+Ballarat,1,198,Ballarat,-37.5569,143.839,Ballarat,2991,Ballarat North West,1,VIC,1689,61.63,1041,38.37,648,-11.28
+Bendigo,1,200,Bendigo,-36.7526297,144.3030202,Bendigo,3195,Bendigo East,1,VIC,560,54.46,305,45.54,255,-0.59
+Bendigo,1,200,Bendigo,-36.7621,144.2831,Bendigo,3129,Bendigo Central,1,VIC,1583,68.41,1083,31.59,500,-7.58
+Gladstone,1,203,Calwell,-37.6889,144.898,Gladstone,4589,Gladstone Views,1,VIC,927,61.38,569,38.62,358,8.49
+Gladstone,1,203,Calwell,-37.68947,144.89003,Gladstone,4588,Gladstone Park,1,VIC,1240,63.23,784,36.77,456,4.11
+Melbourne,1,205,Chisholm,-37.8098387,144.9720566,Melbourne,32045,Melbourne (Chisholm),1,VIC,46,80.43,37,19.57,9,-23
+Melbourne,1,320,Cooper,-37.8098387,144.9720566,Melbourne,32039,Melbourne (Cooper),1,VIC,84,84.52,71,15.48,13,-10.75
+Geelong,1,208,Corio,-38.140008,144.34707,Geelong,3539,Geelong West,1,VIC,1312,63.8,837,36.2,475,-2.41
+Geelong,1,208,Corio,-38.15675,144.35902,Geelong,3528,Geelong South,1,VIC,1632,64.95,1060,35.05,572,-2.3
+Geelong,1,208,Corio,-38.1529,144.374,Geelong,3538,Geelong,1,VIC,1894,62.14,1177,37.86,717,-4.1
+Melbourne,1,321,Fraser,-37.8098387,144.9720566,Melbourne,91790,Melbourne (Fraser),1,VIC,31,74.19,23,25.81,8,-11.27
+Melbourne,1,212,Gellibrand,-37.8098387,144.9720566,Melbourne,31984,Melbourne (Gellibrand),1,VIC,64,68.75,44,31.25,20,-0.47
+Traralgon,1,213,Gippsland,-38.297,146.54,Traralgon,4430,Traralgon South,1,VIC,344,39.24,135,60.76,209,-5.99
+Traralgon,1,213,Gippsland,-38.1990987,146.5215648,Traralgon,83204,Traralgon West,1,VIC,641,38.85,249,61.15,392,-0.72
+Sale,1,213,Gippsland,-38.10733,147.089,Sale,3818,Sale East,1,VIC,880,28.64,252,71.36,628,-5.44
+Bairnsdale,1,213,Gippsland,-37.8248386,147.6334084,Bairnsdale,3718,Bairnsdale,1,VIC,926,30.45,282,69.55,644,-0.39
+Sale,1,213,Gippsland,-38.09669,147.08246,Sale,3819,Sale North,1,VIC,883,32.28,285,67.72,598,-1.7
+Sale,1,213,Gippsland,-38.1094263,147.0672346,Sale,3817,Sale,1,VIC,1303,29.55,385,70.45,918,-2.6
+Bairnsdale,1,213,Gippsland,-37.82466,147.60605,Bairnsdale,3720,Bairnsdale West,1,VIC,1375,33.82,465,66.18,910,-3.92
+Traralgon,1,213,Gippsland,-38.1909,146.516,Traralgon,4389,Traralgon North,1,VIC,1525,39.21,598,60.79,927,-2.97
+Morwell,1,213,Gippsland,-38.23875,146.3883,Morwell,4408,Morwell,1,VIC,1168,52.91,618,47.09,550,-2.83
+Morwell,1,213,Gippsland,-38.2287,146.433,Morwell,4410,Morwell Estate,1,VIC,1491,51.04,761,48.96,730,2.45
+Traralgon,1,213,Gippsland,-38.2014,146.552,Traralgon,4429,Traralgon East,1,VIC,1887,42.02,793,57.98,1094,-1.59
+Traralgon,1,213,Gippsland,-38.193,146.538,Traralgon,4428,Traralgon,1,VIC,2466,39.38,971,60.62,1495,-1.38
+Melbourne,1,214,Goldstein,-37.8098387,144.9720566,Melbourne,82810,Melbourne (Goldstein),1,VIC,35,45.71,16,54.29,19,6.25
+Melton,1,309,Gorton,-37.6842833,144.5870656,Melton,83780,Melton Central,1,VIC,302,64.24,194,35.76,108,4.7
+Melton,1,309,Gorton,-37.7086,144.574,Melton,4252,Melton South,1,VIC,1553,69.74,1083,30.26,470,3.55
+Melton,1,309,Gorton,-37.681,144.587,Melton,4250,Melton,1,VIC,1853,66.81,1238,33.19,615,1.06
+Melbourne,1,215,Higgins,-37.8098387,144.9720566,Melbourne,32004,Melbourne (Higgins),1,VIC,76,59.21,45,40.79,31,-0.53
+Albany,1,217,Hotham,-37.9285,145.173,Albany,3238,Albany Rise,1,VIC,1856,58.84,1092,41.16,764,-0.45
+Wodonga,1,218,Indi,-36.1166198,146.889308,Wodonga,82854,Wodonga,1,VIC,1164,41.75,486,58.25,678,7.75
+Wodonga,1,218,Indi,-36.1404047,146.8941486,Wodonga,4119,Wodonga South,1,VIC,1287,38.69,498,61.31,789,11.26
+Wangaratta,1,218,Indi,-36.3561379,146.3258804,Wangaratta,4107,Wangaratta,1,VIC,1346,39.15,527,60.85,819,9.3
+Wodonga,1,218,Indi,-36.1254,146.879,Wodonga,4117,Wodonga Central,1,VIC,2189,41.89,917,58.11,1272,13.39
+Melbourne,1,221,Kooyong,-37.8098387,144.9720566,Melbourne,32021,Melbourne (Kooyong),1,VIC,61,54.1,33,45.9,28,-0.2
+Emerald,1,223,La Trobe,-37.9238413,145.4591345,Emerald,4880,Emerald,1,VIC,1704,54.05,921,45.95,783,-5.03
+Melbourne,1,322,Macnamara,-37.8098387,144.9720566,Melbourne,32038,Melbourne (Macnamara),1,VIC,250,66.8,167,33.2,83,-15.57
+Emerald,1,322,Macnamara,-37.8359,144.954,Emerald,4663,Emerald Hill,1,VIC,1729,59.17,1023,40.83,706,-8.95
+Horsham,1,224,Mallee,-36.6973,142.205,Horsham,4484,Horsham North,1,VIC,629,34.98,220,65.02,409,3.13
+Horsham,1,224,Mallee,-36.7133,142.205,Horsham,4568,Horsham East,1,VIC,803,32.75,263,67.25,540,-1.83
+Maryborough,1,224,Mallee,-37.0523405,143.7369429,Maryborough,3179,Maryborough East,1,VIC,559,52.42,293,47.58,266,0.86
+Mildura,1,224,Mallee,-34.2130283,142.1272836,Mildura,4512,Mildura South,1,VIC,748,39.17,293,60.83,455,-6.4
+Mildura,1,224,Mallee,-34.1939,142.134,Mildura,58622,Mildura South West,1,VIC,770,39.87,307,60.13,463,-4.07
+Mildura,1,224,Mallee,-34.1960813,142.1486781,Mildura,4511,Mildura Deakin,1,VIC,744,43.15,321,56.85,423,-4.04
+Horsham,1,224,Mallee,-36.7173,142.18,Horsham,4485,Horsham West,1,VIC,1043,31.74,331,68.26,712,-0.8
+Horsham,1,224,Mallee,-36.7148,142.2028,Horsham,4483,Horsham,1,VIC,933,36.76,343,63.24,590,-3.22
+Mildura,1,224,Mallee,-34.1851306,142.1589469,Mildura,4513,Mildura West,1,VIC,822,43.67,359,56.33,463,-10.05
+Mildura,1,224,Mallee,-34.1870446,142.158494,Mildura,11892,Mildura City Central,1,VIC,1115,42.06,469,57.94,646,-3.3
+Mildura,1,224,Mallee,-34.2063,142.156,Mildura,4509,Mildura,1,VIC,1369,41.64,570,58.36,799,-3.22
+Maryborough,1,224,Mallee,-37.0456122,143.7364763,Maryborough,3178,Maryborough,1,VIC,1180,53.64,633,46.36,547,-1.58
+Melbourne,1,225,Maribyrnong,-37.8098387,144.9720566,Melbourne,32041,Melbourne (Maribyrnong),1,VIC,96,84.38,81,15.63,15,-23.1
+Macedon,1,226,McEwen,-37.4189,144.563,Macedon,3302,Macedon,1,VIC,856,60.4,517,39.6,339,-11.39
+Gisborne,1,226,McEwen,-37.49696,144.58514,Gisborne,47803,Gisborne South,1,VIC,1098,52.82,580,47.18,518,-2.29
+Gisborne,1,226,McEwen,-37.4905744,144.5881462,Gisborne,3284,Gisborne,1,VIC,2053,52.7,1082,47.3,971,-1.99
+Melbourne,1,228,Melbourne,-37.8098387,144.9720566,Melbourne,4637,Melbourne (Melbourne),1,VIC,1980,60.71,1202,39.29,778,1.13
+Drouin,1,323,Monash,-38.1708391,145.8261037,Drouin,3750,Drouin South,1,VIC,453,26.27,119,73.73,334,-2.04
+Drouin,1,323,Monash,-38.0871,145.872,Drouin,4392,Drouin West,1,VIC,400,36,144,64,256,-2.67
+Drouin,1,323,Monash,-38.1352642,145.8546311,Drouin,83698,Drouin Central,1,VIC,398,42.21,168,57.79,230,0.47
+Warragul,1,323,Monash,-38.1537486,145.9440057,Warragul,4435,Warragul East,1,VIC,676,37.13,251,62.87,425,5.46
+Moe,1,323,Monash,-38.1923,146.256,Moe,4406,Moe Central,1,VIC,629,61.05,384,38.95,245,7.47
+Drouin,1,323,Monash,-38.14451,145.850712,Drouin,64676,Drouin Summerhill,1,VIC,823,46.78,385,53.22,438,-3.76
+Newborough,1,323,Monash,-38.1788707,146.2937354,Newborough,4417,Newborough East,1,VIC,729,57.34,418,42.66,311,6.71
+Moe,1,323,Monash,-38.1797,146.254,Moe,4407,Moe West,1,VIC,815,52.02,424,47.98,391,8.13
+Warragul,1,323,Monash,-38.1565535,145.9280276,Warragul,4434,Warragul,1,VIC,1208,46.61,563,53.39,645,-2.09
+Newborough,1,323,Monash,-38.187,146.292,Newborough,4416,Newborough,1,VIC,1046,56.21,588,43.79,458,8.51
+Warragul,1,323,Monash,-38.148,145.939,Warragul,4436,Warragul North,1,VIC,1415,46.01,651,53.99,764,-2.71
+Moe,1,323,Monash,-38.17466,146.264053,Moe,4405,Moe,1,VIC,1282,56.71,727,43.29,555,3.8
+Drouin,1,323,Monash,-38.1334,145.855,Drouin,4391,Drouin,1,VIC,2378,44.15,1050,55.85,1328,-1.05
+Echuca,1,324,Nicholls,-36.1319,144.732,Echuca,4744,Echuca West,1,VIC,281,31.32,88,68.68,193,-4.14
+Shepparton,1,324,Nicholls,-36.4005,145.48,Shepparton,4805,Shepparton East,1,VIC,555,17.84,99,82.16,456,0.33
+Mooroopna,1,324,Nicholls,-36.39182,145.36083,Mooroopna,83284,Mooroopna,1,VIC,467,32.33,151,67.67,316,-2.73
+Echuca,1,324,Nicholls,-36.1346,144.761,Echuca,4742,Echuca East,1,VIC,978,34.46,337,65.54,641,-7.38
+Echuca,1,324,Nicholls,-36.128,144.747,Echuca,4741,Echuca,1,VIC,1540,30.32,467,69.68,1073,-4.08
+Shepparton,1,324,Nicholls,-36.3675,145.413,Shepparton,4806,Shepparton North,1,VIC,1742,28.65,499,71.35,1243,-4.76
+Shepparton,1,324,Nicholls,-36.3898,145.406,Shepparton,4807,Shepparton South,1,VIC,1250,40.4,505,59.6,745,-7.47
+Mooroopna,1,324,Nicholls,-36.3813,145.351,Mooroopna,4787,Mooroopna Park,1,VIC,1557,34.17,532,65.83,1025,-5.11
+Lismore,1,233,Wannon,-37.9548,143.339,Lismore,3035,Lismore,1,VIC,332,31.33,104,68.67,228,-3.21
+Portland,1,233,Wannon,-38.3152,141.572,Portland,5041,Portland North,1,VIC,240,45.42,109,54.58,131,1.82
+Colac,1,233,Wannon,-38.3432158,143.5720851,Colac,3472,Colac West,1,VIC,677,46.23,313,53.77,364,-4.51
+Warrnambool,1,233,Wannon,-38.3773995,142.4828004,Warrnambool,82959,Warrnambool Central,1,VIC,735,47.62,350,52.38,385,2.62
+Portland,1,233,Wannon,-38.3367,141.602,Portland,4998,Portland North Central,1,VIC,686,51.31,352,48.69,334,-2.13
+Warrnambool,1,233,Wannon,-38.3592917,142.4599743,Warrnambool,5078,Warrnambool West,1,VIC,847,48.05,407,51.95,440,4.24
+Warrnambool,1,233,Wannon,-38.3853,142.521,Warrnambool,5063,Warrnambool East,1,VIC,1111,43.02,478,56.98,633,5.21
+Colac,1,233,Wannon,-38.3373,143.598,Colac,3470,Colac East,1,VIC,1173,41.18,483,58.82,690,0.18
+Warrnambool,1,233,Wannon,-38.3724317,142.4857998,Warrnambool,31773,Warrnambool North Central,1,VIC,1819,41.78,760,58.22,1059,3.71
+Portland,1,233,Wannon,-38.35172,141.60636,Portland,5039,Portland Central,1,VIC,1519,50.89,773,49.11,746,1.54
+Warrnambool,1,233,Wannon,-38.3826,142.481,Warrnambool,5072,Warrnambool,1,VIC,3033,46.75,1418,53.25,1615,5.05
+Melbourne,1,234,Wills,-37.8098387,144.9720566,Melbourne,32909,Melbourne (Wills),1,VIC,98,78.57,77,21.43,21,-6.46
+Singleton,1,235,Brand,-32.44032,115.75738,Singleton,7510,Singleton,1,WA,1738,51.67,898,48.33,840,4.54
+Warwick,1,237,Cowan,-31.83868,115.81543,Warwick,7588,Warwick,1,WA,552,48.73,269,51.27,283,-3.92
+Warwick,1,237,Cowan,-31.8393759,115.7967782,Warwick,32812,Warwick West,1,WA,1279,47.69,610,52.31,669,-2.05
+Geraldton,1,312,Durack,-28.7794143,114.6122503,Geraldton,8025,Geraldton East,1,WA,469,40.09,188,59.91,281,-2.49
+Karratha,1,312,Durack,-20.7303934,116.8583536,Karratha,7850,Karratha,1,WA,964,42.95,414,57.05,550,1.91
+Geraldton,1,312,Durack,-28.7789,114.608,Geraldton,8023,Geraldton West,1,WA,1298,41.99,545,58.01,753,0.95
+Broome,1,312,Durack,-17.9610572,122.238425,Broome,7806,Broome,1,WA,983,56.66,557,43.34,426,2.83
+Bunbury,1,239,Forrest,-33.3213762,115.6448453,Bunbury,7661,Bunbury Central,1,WA,585,36.41,213,63.59,372,-2.4
+Busselton,1,239,Forrest,-33.6606425,115.3815495,Busselton,83730,Busselton North,1,WA,658,33.59,221,66.41,437,1.11
+Bunbury,1,239,Forrest,-33.3433,115.663,Bunbury,7740,Bunbury - Wollaston,1,WA,749,38.45,288,61.55,461,8.73
+Busselton,1,239,Forrest,-33.6513406,115.3478811,Busselton,7666,Busselton,1,WA,1053,32.57,343,67.43,710,1.42
+Busselton,1,239,Forrest,-33.63931,115.37652,Busselton,32928,Busselton East,1,WA,1255,31.71,398,68.29,857,1.18
+Bunbury,1,239,Forrest,-33.3335,115.638,Bunbury,7660,Bunbury,1,WA,1134,38.54,437,61.46,697,-1.34
+Bunbury,1,239,Forrest,-33.3349,115.652,Bunbury,7662,Bunbury East,1,WA,1300,40.62,528,59.38,772,3.13
+Busselton,1,239,Forrest,-33.6549,115.315,Busselton,7667,Busselton West,1,WA,1647,33.03,544,66.97,1103,1.56
+Bunbury,1,239,Forrest,-33.3404,115.642,Bunbury,7728,Bunbury South,1,WA,1444,38.78,560,61.22,884,3.08
+Busselton,1,239,Forrest,-33.6565,115.325,Busselton,34114,Busselton South,1,WA,1786,33.93,606,66.07,1180,2.41
+Bunbury,1,239,Forrest,-33.35755,115.63392,Bunbury,7677,Bunbury - Coral Park,1,WA,1550,41.1,637,58.9,913,3.08
+Albany,1,243,O'Connor,-34.9945047,117.94379,Albany,7688,Albany East,1,WA,403,28.54,115,71.46,288,2.87
+Albany,1,243,O'Connor,-35.0184253,117.89065,Albany,7645,Albany,1,WA,567,46.56,264,53.44,303,-5.05
+Kalgoorlie,1,243,O'Connor,-30.7504203,121.4760125,Kalgoorlie,7839,Kalgoorlie,1,WA,654,44.04,288,55.96,366,-9.78
+Kalgoorlie,1,243,O'Connor,-30.7430393,121.4745334,Kalgoorlie,7846,Kalgoorlie Central,1,WA,676,42.75,289,57.25,387,-1.53
+Esperance,1,243,O'Connor,-33.8602591,121.8893878,Esperance,7822,Esperance,1,WA,1613,27.84,449,72.16,1164,0.04
+Kalgoorlie,1,243,O'Connor,-30.7388849,121.4593077,Kalgoorlie,7843,Kalgoorlie North,1,WA,1176,38.86,457,61.14,719,-6.79
+Kalgoorlie,1,243,O'Connor,-30.7637,121.479,Kalgoorlie,7842,Kalgoorlie South,1,WA,1076,43.4,467,56.6,609,-2.77
+Boulder,1,243,O'Connor,-30.7800132,121.4866233,Boulder,7805,Boulder,1,WA,1250,45.76,572,54.24,678,0.22
+Albany,1,243,O'Connor,-35.0237,117.883,Albany,7646,Albany West,1,WA,1301,46.04,599,53.96,702,-2.24
+Yanchep,1,244,Pearce,-31.5522,115.636,Yanchep,7971,Yanchep,1,WA,1262,41.28,521,58.72,741,7.02
+Yanchep,1,244,Pearce,-31.5440709,115.631774,Yanchep,89901,Yanchep North,1,WA,1063,49.11,522,50.89,541,-0.8
+Perth,1,245,Perth,-31.9564376,115.8612921,Perth,8161,Perth Central,1,WA,833,54.14,451,45.86,382,-4.62
+Ulladulla,1,120,Gilmore,-35.3562962,150.4743719,Ulladulla,33747,Ulladulla PPVC,5,NSW,9262,50.29,4658,49.71,4604,-4.82
+Nowra,1,120,Gilmore,-34.8670937,150.6029031,Nowra,34039,Nowra PPVC,5,NSW,16215,49.66,8052,50.34,8163,-1.7
+Sydney,1,121,Grayndler,-33.8701973,151.206944,Sydney,65174,Sydney GRAYNDLER PPVC,5,NSW,1401,65.6,919,34.4,482,3.43
+Bowral,1,125,Hume,-34.4798895,150.420363,Bowral,65165,Bowral HUME PPVC,5,NSW,2433,41.43,1008,58.57,1425,-4.38
+Goulburn,1,125,Hume,-34.756438,149.711886,Goulburn,33866,Goulburn PPVC,5,NSW,9823,37.88,3721,62.12,6102,1.58
+Cooranbong,1,126,Hunter,-33.0745424,151.4576268,Cooranbong,33899,Cooranbong PPVC,5,NSW,5538,38.1,2110,61.9,3428,1.4
+Muswellbrook,1,126,Hunter,-32.2848467,150.9049638,Muswellbrook,33977,Muswellbrook HUNTER PPVC,5,NSW,4599,48.9,2249,51.1,2350,13.9
+Singleton,1,126,Hunter,-32.5668354,151.1659459,Singleton,33975,Singleton PPVC,5,NSW,7016,46.28,3247,53.72,3769,7.69
+Sydney,1,127,Kingsford Smith,-33.8638565,151.2092587,Sydney,65182,Sydney KINGSFORD SMITH PPVC,5,NSW,933,49.73,464,50.27,469,6.97
+Taree,1,130,Lyne,-31.9104484,152.4610363,Taree,33679,Taree PPVC,5,NSW,11496,32.05,3685,67.95,7811,4.74
+Sydney,1,132,Mackellar,-33.8638565,151.2092587,Sydney,97608,Sydney MACKELLAR PPVC,5,NSW,417,32.13,134,67.87,283,5.85
+Muswellbrook,1,135,New England,-32.2623668,150.8894256,Muswellbrook,81302,Muswellbrook NEW ENGLAND PPVC,5,NSW,1611,31.28,504,68.72,1107,5.21
+Armidale,1,135,New England,-30.5015616,151.6661993,Armidale,33752,Armidale PPVC,5,NSW,9027,35.7,3223,64.3,5804,-1.02
+Tamworth,1,135,New England,-31.092748,150.9320334,Tamworth,33755,Tamworth PPVC,5,NSW,14707,30.12,4430,69.88,10277,1.68
+Newcastle,1,136,Newcastle,-32.9272155,151.7795013,Newcastle,33789,Newcastle NEWCASTLE PPVC,5,NSW,12636,59.16,7475,40.84,5161,-1.43
+Sydney,1,137,North Sydney,-33.8638565,151.2092587,Sydney,66054,Sydney NORTH SYDNEY PPVC,5,NSW,1834,35.22,646,64.78,1188,2.3
+Grafton,1,138,Page,-29.6816894,152.9336547,Grafton,33741,Grafton PPVC,5,NSW,9059,33.22,3009,66.78,6050,13.3
+Lismore,1,138,Page,-28.8093154,153.2882876,Lismore,33742,Lismore PPVC,5,NSW,13102,43.95,5758,56.05,7344,2.82
+Dubbo,1,139,Parkes,-32.2315018,148.6329645,Dubbo,33951,Dubbo PARKES PPVC,5,NSW,13920,26.51,3690,73.49,10230,-0.27
+Sydney,1,140,Parramatta,-33.8638565,151.2092587,Sydney,97611,Sydney PARRAMATTA PPVC,5,NSW,441,50.79,224,49.21,217,5.92
+Sydney,1,144,Reid,-33.8638565,151.2092587,Sydney,65246,Sydney REID PPVC,5,NSW,1054,44.31,467,55.69,587,1.35
+Ballina,1,145,Richmond,-28.8706917,153.5618694,Ballina,65236,Ballina RICHMOND PPVC,5,NSW,10633,45.11,4797,54.89,5836,0.12
+Parkes,1,250,Riverina,-33.1365745,148.1755881,Parkes,33952,Parkes PPVC,5,NSW,2668,27.17,725,72.83,1943,4.17
+Newcastle,1,148,Shortland,-32.9272155,151.7795013,Newcastle,65202,Newcastle SHORTLAND PPVC,5,NSW,813,54.49,443,45.51,370,3.62
+Sydney,1,149,Sydney,-33.8638565,151.2092587,Sydney,33970,Sydney SYDNEY PPVC,5,NSW,3503,56.87,1992,43.13,1511,2.8
+Sydney,1,151,Warringah,-33.8638565,151.2092587,Sydney,65199,Sydney WARRINGAH PPVC,5,NSW,1462,54.92,803,45.08,659,-13.94
+Sydney,1,251,Watson,-33.8638565,151.2092587,Sydney,97612,Sydney WATSON PPVC,5,NSW,447,60.18,269,39.82,178,3.35
+Sydney,1,152,Wentworth,-33.8638565,151.2092587,Sydney,64586,Sydney WENTWORTH PPVC,5,NSW,1660,33.86,562,66.14,1098,0.03
+Bowral,1,150,Whitlam,-34.4798725,150.4203705,Bowral,33862,Bowral WHITLAM PPVC,5,NSW,9601,40.34,3873,59.66,5728,59.66
+Darwin,1,306,Lingiari,-12.4605758,130.8366106,Darwin,58673,Darwin LINGIARI PPVC,5,NT,804,47.14,379,52.86,425,8.8
+Darwin,1,307,Solomon,-12.4605758,130.8366106,Darwin,34139,Darwin SOLOMON PPVC,5,NT,7437,48.26,3589,51.74,3848,1.65
+Brisbane,1,310,Bonner,-27.4675792,153.0201292,Brisbane,65730,Brisbane BONNER PPVC,5,QLD,443,39.05,173,60.95,270,1.58
+Brisbane,1,310,Bonner,-27.468868,153.0225772,Brisbane,58721,Brisbane City BONNER PPVC,5,QLD,1736,47.35,822,52.65,914,1.78
+Brisbane,1,155,Bowman,-27.4622476,153.0317586,Brisbane,97482,Brisbane BOWMAN PPVC,5,QLD,166,34.94,58,65.06,108,7.28
+Brisbane,1,155,Bowman,-27.4689813,153.0235193,Brisbane,97483,Brisbane City BOWMAN PPVC,5,QLD,532,41.92,223,58.08,309,0.24
+Brisbane,1,156,Brisbane,-27.4622476,153.0317586,Brisbane,65729,Brisbane BRISBANE PPVC,5,QLD,3794,43.91,1666,56.09,2128,-8.24
+Brisbane,1,156,Brisbane,-27.4681,153.024,Brisbane,32606,Brisbane City BRISBANE PPVC,5,QLD,8554,48.48,4147,51.52,4407,-0.16
+Mackay,1,157,Capricornia,-21.1431401,149.1843824,Mackay,65738,Mackay CAPRICORNIA PPVC,5,QLD,5369,29.5,1584,70.5,3785,14.77
+Rockhampton,1,157,Capricornia,-23.3785392,150.5148127,Rockhampton,83285,Rockhampton Northside PPVC,5,QLD,7296,40.64,2965,59.36,4331,11.43
+Yeppoon,1,157,Capricornia,-23.1285704,150.7457414,Yeppoon,46728,Yeppoon PPVC,5,QLD,9940,33.57,3337,66.43,6603,7.39
+Rockhampton,1,157,Capricornia,-23.3811495,150.5079674,Rockhampton,32700,Rockhampton CAPRICORNIA PPVC,5,QLD,8659,39.22,3396,60.78,5263,12.22
+Townsville,1,158,Dawson,-19.2580437,146.8142196,Townsville,58761,Townsville DAWSON PPVC,5,QLD,1044,34.58,361,65.42,683,6.33
+Mackay,1,158,Dawson,-21.1431401,149.1843824,Mackay,32661,Mackay DAWSON PPVC,5,QLD,19707,35.91,7077,64.09,12630,13.1
+Brisbane,1,252,Dickson,-27.4697707,153.0251235,Brisbane,97484,Brisbane DICKSON PPVC,5,QLD,267,45.69,122,54.31,145,1.12
+Brisbane,1,252,Dickson,-27.4689443,153.0234109,Brisbane,97485,Brisbane City DICKSON PPVC,5,QLD,1022,53.52,547,46.48,475,-6.74
+Albany,1,252,Dickson,-27.345237,152.9714734,Albany,83392,Albany Creek DICKSON PPVC,5,QLD,6469,36.27,2346,63.73,4123,8.56
+Bundaberg,1,311,Flynn,-24.8869593,152.3196964,Bundaberg,97432,Bundaberg West FLYNN PPVC,5,QLD,316,40.19,127,59.81,189,6.87
+Bundaberg,1,311,Flynn,-24.872322,152.3480358,Bundaberg,97433,Bundaberg Central FLYNN PPVC,5,QLD,901,35.96,324,64.04,577,11.01
+Bundaberg,1,311,Flynn,-24.8768884,152.3528731,Bundaberg,58726,Bundaberg FLYNN PPVC,5,QLD,2157,35.98,776,64.02,1381,0.97
+Rockhampton,1,311,Flynn,-23.3811495,150.5079674,Rockhampton,58892,Rockhampton FLYNN PPVC,5,QLD,2184,37.5,819,62.5,1365,12.72
+Emerald,1,311,Flynn,-23.525909,148.1603087,Emerald,32926,Emerald PPVC,5,QLD,4491,28.15,1264,71.85,3227,10.25
+Gladstone,1,311,Flynn,-23.8440625,151.2565244,Gladstone,32711,Gladstone PPVC,5,QLD,14756,54.12,7986,45.88,6770,7.11
+Brisbane,1,163,Griffith,-27.4675792,153.0201292,Brisbane,65731,Brisbane GRIFFITH PPVC,5,QLD,1490,48.52,723,51.48,767,-5.88
+Brisbane,1,163,Griffith,-27.4688686,153.0225348,Brisbane,65833,Brisbane City GRIFFITH PPVC,5,QLD,4920,53.41,2628,46.59,2292,3.55
+Toowoomba,1,164,Groom,-27.5582184,151.9534492,Toowoomba,32597,Toowoomba PPVC,5,QLD,17692,28.76,5088,71.24,12604,4.15
+Townsville,1,165,Herbert,-19.258964,146.813892,Townsville,32703,Townsville HERBERT PPVC,5,QLD,6165,42.12,2597,57.88,3568,2.13
+Maryborough,1,166,Hinkler,-25.5391841,152.7023415,Maryborough,82908,Maryborough HINKLER PPVC,5,QLD,1017,36.87,375,63.13,642,6.88
+Bundaberg,1,166,Hinkler,-24.8869992,152.3195828,Bundaberg,65207,Bundaberg West HINKLER PPVC,5,QLD,2854,35.25,1006,64.75,1848,5.98
+Bundaberg,1,166,Hinkler,-24.872322,152.3480358,Bundaberg,66159,Bundaberg Central HINKLER PPVC,5,QLD,6493,35.58,2310,64.42,4183,5.96
+Bundaberg,1,166,Hinkler,-24.8680609,152.3474486,Bundaberg,46484,Bundaberg HINKLER PPVC,5,QLD,10958,36.8,4032,63.2,6926,1.34
+Cairns,1,167,Kennedy,-16.9220608,145.7748185,Cairns,97503,Cairns CBD KENNEDY PPVC,5,QLD,1372,40.67,558,59.33,814,9.61
+Cairns,1,167,Kennedy,-16.931785,145.751441,Cairns,65107,Cairns KENNEDY PPVC,5,QLD,1987,38.3,761,61.7,1226,8.38
+Cairns,1,167,Kennedy,-17.0033939,145.7433149,Cairns,83294,Cairns South KENNEDY PPVC,5,QLD,5302,42.12,2233,57.88,3069,10.99
+Cairns,1,168,Leichhardt,-17.0033939,145.7433149,Cairns,97442,Cairns South LEICHHARDT PPVC,5,QLD,2081,40.85,850,59.15,1231,2.59
+Cairns,1,168,Leichhardt,-16.9220608,145.7748185,Cairns,65163,Cairns CBD LEICHHARDT PPVC,5,QLD,8876,44.63,3961,55.37,4915,-1.31
+Cairns,1,168,Leichhardt,-16.9331016,145.7528481,Cairns,32675,Cairns LEICHHARDT PPVC,5,QLD,15107,41.89,6329,58.11,8778,1.51
+Brisbane,1,169,Lilley,-27.4622476,153.0317586,Brisbane,65728,Brisbane LILLEY PPVC,5,QLD,537,52.89,284,47.11,253,-3.4
+Albany,1,169,Lilley,-27.346944,152.968056,Albany,83425,Albany Creek LILLEY PPVC,5,QLD,1004,35.06,352,64.94,652,14.22
+Brisbane,1,169,Lilley,-27.4689443,153.0234109,Brisbane,58691,Brisbane City LILLEY PPVC,5,QLD,2147,55.85,1199,44.15,948,-1.56
+Kingaroy,1,170,Maranoa,-26.5457224,151.8391953,Kingaroy,46657,Kingaroy PPVC,5,QLD,4356,24.17,1053,75.83,3303,9.27
+Warwick,1,170,Maranoa,-28.2178235,152.0326809,Warwick,32628,Warwick PPVC,5,QLD,7141,26.49,1892,73.51,5249,5.6
+Brisbane,1,173,Moreton,-27.4675792,153.0201292,Brisbane,65726,Brisbane MORETON PPVC,5,QLD,638,49.06,313,50.94,325,-0.15
+Brisbane,1,173,Moreton,-27.468821,153.0225724,Brisbane,58693,Brisbane City MORETON PPVC,5,QLD,2607,56.89,1483,43.11,1124,1.17
+Brisbane,1,174,Oxley,-27.4622476,153.0317586,Brisbane,97486,Brisbane OXLEY PPVC,5,QLD,227,57.71,131,42.29,96,-3.45
+Brisbane,1,174,Oxley,-27.4689443,153.0234109,Brisbane,97487,Brisbane City OXLEY PPVC,5,QLD,972,56.07,545,43.93,427,-1.62
+Brisbane,1,175,Petrie,-27.4697707,153.0251235,Brisbane,97488,Brisbane PETRIE PPVC,5,QLD,163,38.65,63,61.35,100,8.17
+Brisbane,1,175,Petrie,-27.4686858,153.0225762,Brisbane,97489,Brisbane City PETRIE PPVC,5,QLD,754,49.87,376,50.13,378,-2.99
+Brisbane,1,176,Rankin,-27.4689443,153.0234109,Brisbane,97491,Brisbane City RANKIN PPVC,5,QLD,265,52.83,140,47.17,125,3.69
+Brisbane,1,176,Rankin,-27.4622476,153.0317586,Brisbane,97490,Brisbane RANKIN PPVC,5,QLD,915,56.39,516,43.61,399,0.03
+Brisbane,1,177,Ryan,-27.4622476,153.0317586,Brisbane,65727,Brisbane RYAN PPVC,5,QLD,794,40.68,323,59.32,471,-4.65
+Brisbane,1,177,Ryan,-27.4689443,153.0234109,Brisbane,58694,Brisbane City RYAN PPVC,5,QLD,3067,48.65,1492,51.35,1575,-1.28
+Gympie,1,178,Wide Bay,-26.1884741,152.6666779,Gympie,32767,Gympie PPVC,5,QLD,10784,30.92,3334,69.08,7450,6.51
+Maryborough,1,178,Wide Bay,-25.5391841,152.7023415,Maryborough,65764,Maryborough WIDE BAY PPVC,5,QLD,10378,39.02,4049,60.98,6329,8.42
+Adelaide,1,179,Adelaide,-34.9218994,138.5980605,Adelaide,32952,Adelaide ADELAIDE PPVC,5,SA,4350,57.91,2519,42.09,1831,-2.93
+Adelaide,1,180,Barker,-34.9218994,138.5980605,Adelaide,65567,Adelaide BARKER PPVC,5,SA,155,35.48,55,64.52,100,3.61
+Adelaide,1,182,Boothby,-34.9218994,138.5980605,Adelaide,58733,Adelaide BOOTHBY PPVC,5,SA,1160,56.03,650,43.97,510,-3.94
+Adelaide,1,183,Grey,-34.9267089,138.6001735,Adelaide,65627,Adelaide GREY PPVC,5,SA,180,36.67,66,63.33,114,1.52
+Whyalla,1,183,Grey,-33.03095,137.54157,Whyalla,13116,Whyalla PPVC,5,SA,4578,54,2472,46,2106,11.87
+Adelaide,1,185,Hindmarsh,-34.9226396,138.5993915,Adelaide,58735,Adelaide HINDMARSH PPVC,5,SA,1159,58.15,674,41.85,485,-2.45
+Adelaide,1,187,Makin,-34.9218994,138.5980605,Adelaide,58738,Adelaide MAKIN PPVC,5,SA,626,64.54,404,35.46,222,-3.43
+Adelaide,1,188,Mayo,-34.9218994,138.5980605,Adelaide,58737,Adelaide Mayo PPVC,5,SA,551,56.08,309,43.92,242,-6.08
+Adelaide,1,325,Spence,-34.9226396,138.5993915,Adelaide,58757,Adelaide SPENCE PPVC,5,SA,450,66.67,300,33.33,150,-2.1
+Launceston,1,192,Bass,-41.4421509,147.1368194,Launceston,33906,Launceston BASS PPVC,5,TAS,10856,46.14,5009,53.86,5847,3.06
+Ulverstone,1,193,Braddon,-41.1581456,146.1750675,Ulverstone,83750,Ulverstone PPVC,5,TAS,2307,41.87,966,58.13,1341,9.32
+Devonport,1,193,Braddon,-41.1804229,146.3622719,Devonport,33831,Devonport BRADDON PPVC,5,TAS,6298,46.11,2904,53.89,3394,3.89
+Burnie,1,193,Braddon,-41.0528583,145.9052168,Burnie,33832,Burnie PPVC,5,TAS,6431,49.98,3214,50.02,3217,3.73
+Hobart,1,319,Clark,-42.8852235,147.327458,Hobart,31107,Hobart CLARK PPVC,5,TAS,5552,63.71,3537,36.29,2015,-0.63
+Hobart,1,195,Franklin,-42.8855064,147.3253502,Hobart,58681,Hobart FRANKLIN PPVC,5,TAS,2347,64.08,1504,35.92,843,-3.48
+Devonport,1,196,Lyons,-41.1770585,146.3451775,Devonport,83159,Devonport LYONS PPVC,5,TAS,565,49.73,281,50.27,284,-1.94
+Hobart,1,196,Lyons,-42.8826908,147.3275225,Hobart,82850,Hobart LYONS PPVC,5,TAS,584,61.13,357,38.87,227,-10.24
+Launceston,1,196,Lyons,-41.4332215,147.1440875,Launceston,58627,Launceston LYONS PPVC,5,TAS,2760,43.91,1212,56.09,1548,1.2
+Melton,1,198,Ballarat,-37.6782403,144.5935071,Melton,64713,Melton BALLARAT PPVC,5,VIC,3677,54.31,1997,45.69,1680,3.16
+Ballarat,1,198,Ballarat,-37.5613748,143.8606094,Ballarat,34062,Ballarat PPVC,5,VIC,23872,58.83,14043,41.17,9829,-4.8
+Bendigo,1,200,Bendigo,-36.7612485,144.2750954,Bendigo,32094,Bendigo PPVC,5,VIC,20261,55.87,11319,44.13,8942,-5.85
+Gladstone,1,203,Calwell,-37.6882138,144.8849542,Gladstone,64682,Gladstone Park PPVC,5,VIC,14910,62.21,9276,37.79,5634,1.76
+Melbourne,1,205,Chisholm,-37.8158909,144.9588604,Melbourne,97508,Melbourne Central CHISHOLM PPVC,5,VIC,347,51.3,178,48.7,169,-2.9
+Melbourne,1,205,Chisholm,-37.8100135,144.9608429,Melbourne,83897,Melbourne CHISHOLM PPVC,5,VIC,935,53.16,497,46.84,438,-4.74
+Melbourne,1,320,Cooper,-37.8158909,144.9588604,Melbourne,97509,Melbourne Central COOPER PPVC,5,VIC,337,66.47,224,33.53,113,46.79
+Melbourne,1,320,Cooper,-37.8100135,144.9608429,Melbourne,83965,Melbourne COOPER PPVC,5,VIC,1311,76.96,1009,23.04,302,-10.29
+Colac,1,207,Corangamite,-38.3397934,143.5909346,Colac,91539,Colac CORANGAMITE PPVC,5,VIC,1141,43.65,498,56.35,643,-6.83
+Geelong,1,207,Corangamite,-38.1478314,144.3579382,Geelong,58623,Geelong CORANGAMITE PPVC,5,VIC,6269,49.99,3134,50.01,3135,0.5
+Geelong,1,208,Corio,-38.1494919,144.3623364,Geelong,31536,Geelong CORIO PPVC,5,VIC,14395,59.96,8631,40.04,5764,-5.58
+Melbourne,1,321,Fraser,-37.8158909,144.9588604,Melbourne,97510,Melbourne Central FRASER PPVC,5,VIC,337,62.02,209,37.98,128,0.44
+Melbourne,1,321,Fraser,-37.8152065,144.963937,Melbourne,91799,Melbourne FRASER PPVC,5,VIC,737,64.04,472,35.96,265,-1.58
+Melbourne,1,212,Gellibrand,-37.8100135,144.9608429,Melbourne,83904,Melbourne GELLIBRAND PPVC,5,VIC,1382,70.12,969,29.88,413,-6.14
+Bairnsdale,1,213,Gippsland,-37.8248386,147.6334084,Bairnsdale,32100,Bairnsdale PPVC,5,VIC,10946,26.07,2854,73.93,8092,-1.32
+Sale,1,213,Gippsland,-38.1084972,147.0658846,Sale,38292,Sale PPVC,5,VIC,11483,26.26,3016,73.74,8467,-3.25
+Morwell,1,213,Gippsland,-38.2372815,146.3900264,Morwell,65862,Morwell GIPPSLAND PPVC,5,VIC,7310,44.66,3265,55.34,4045,1.79
+Traralgon,1,213,Gippsland,-38.1898517,146.5637931,Traralgon,32107,Traralgon PPVC,5,VIC,11596,33.71,3909,66.29,7687,-1.24
+Melbourne,1,214,Goldstein,-37.8158909,144.9588604,Melbourne,97507,Melbourne Central GOLDSTEIN PPVC,5,VIC,364,49.18,179,50.82,185,-9.88
+Melbourne,1,214,Goldstein,-37.8100135,144.9608429,Melbourne,83906,Melbourne GOLDSTEIN PPVC,5,VIC,884,53.05,469,46.95,415,-13.8
+Melton,1,309,Gorton,-37.6784815,144.5915714,Melton,38304,Melton GORTON PPVC,5,VIC,21031,62.22,13086,37.78,7945,2.57
+Melbourne,1,215,Higgins,-37.825282,144.95182,Melbourne,97512,Melbourne Central HIGGINS PPVC,5,VIC,482,47.1,227,52.9,255,-7.26
+Melbourne,1,215,Higgins,-37.8098387,144.9720566,Melbourne,83908,Melbourne HIGGINS PPVC,5,VIC,1528,52.36,800,47.64,728,-8.97
+Albury,1,218,Indi,-36.0786731,146.9190073,Albury,65892,Albury INDI PPVC,5,VIC,1806,37.6,679,62.4,1127,11.43
+Wangaratta,1,218,Indi,-36.3561379,146.3258804,Wangaratta,33124,Wangaratta PPVC,5,VIC,14636,34.19,5004,65.81,9632,10.01
+Wodonga,1,218,Indi,-36.1234399,146.8814539,Wodonga,31542,Wodonga PPVC,5,VIC,17450,34.45,6012,65.55,11438,12.28
+Melbourne,1,221,Kooyong,-37.825282,144.95182,Melbourne,97513,Melbourne Central KOOYONG PPVC,5,VIC,426,44.6,190,55.4,236,-4.64
+Melbourne,1,221,Kooyong,-37.8098387,144.9720566,Melbourne,83914,Melbourne KOOYONG PPVC,5,VIC,1413,48.27,682,51.73,731,-8.19
+Melbourne,1,322,Macnamara,-37.8100135,144.9608429,Melbourne,58641,Melbourne MACNAMARA PPVC,5,VIC,2958,58.01,1716,41.99,1242,-9.6
+Melbourne,1,322,Macnamara,-37.825282,144.95182,Melbourne,97506,Melbourne Central MACNAMARA PPVC,5,VIC,4968,53.46,2656,46.54,2312,-5.05
+Maryborough,1,224,Mallee,-37.045138,143.736798,Maryborough,83695,Maryborough PPVC,5,VIC,3341,51.03,1705,48.97,1636,-1.47
+Horsham,1,224,Mallee,-36.7146985,142.1994541,Horsham,31599,Horsham PPVC,5,VIC,8851,30.28,2680,69.72,6171,-3.26
+Mildura,1,224,Mallee,-34.1853102,142.15762,Mildura,38298,Mildura MALLEE PPVC,5,VIC,7743,39.51,3059,60.49,4684,-8.76
+Melbourne,1,225,Maribyrnong,-37.8158909,144.9588604,Melbourne,97514,Melbourne Central MARIBYRNONG PPVC,5,VIC,615,58.86,362,41.14,253,4.66
+Melbourne,1,225,Maribyrnong,-37.8100135,144.9608429,Melbourne,83918,Melbourne MARIBYRNONG PPVC,5,VIC,1651,68.63,1133,31.37,518,-5.11
+Melbourne,1,228,Melbourne,-37.8098387,144.9720566,Melbourne,14318,Melbourne MELBOURNE PPVC,5,VIC,11442,65.94,7545,34.06,3897,-6.17
+Morwell,1,323,Monash,-38.2372815,146.3900264,Morwell,65905,Morwell MONASH PPVC,5,VIC,824,47.69,393,52.31,431,11.31
+Moe,1,323,Monash,-38.172222,146.267778,Moe,83638,Moe PPVC,5,VIC,4738,52.83,2503,47.17,2235,8.44
+Warragul,1,323,Monash,-38.1507411,145.9268532,Warragul,34224,Warragul PPVC,5,VIC,13885,34.92,4848,65.08,9037,0.7
+Echuca,1,324,Nicholls,-36.1278663,144.7482858,Echuca,32033,Echuca NICHOLLS PPVC,5,VIC,8899,25.68,2285,74.32,6614,-4.75
+Shepparton,1,324,Nicholls,-36.3775176,145.4000439,Shepparton,38335,Shepparton PPVC,5,VIC,16856,27.45,4627,72.55,12229,-6.25
+Colac,1,233,Wannon,-38.3406464,143.5903215,Colac,58629,Colac WANNON PPVC,5,VIC,6725,33.62,2261,66.38,4464,3.08
+Portland,1,233,Wannon,-38.36181,141.61336,Portland,38432,Portland PPVC,5,VIC,5696,44.96,2561,55.04,3135,5.09
+Warrnambool,1,233,Wannon,-38.384121,142.477554,Warrnambool,33121,Warrnambool PPVC,5,VIC,17447,38.25,6674,61.75,10773,2.15
+Melbourne,1,234,Wills,-37.825282,144.95182,Melbourne,97515,Melbourne Central WILLS PPVC,5,VIC,671,76.15,511,23.85,160,9.43
+Melbourne,1,234,Wills,-37.8100135,144.9608429,Melbourne,83927,Melbourne WILLS PPVC,5,VIC,2676,82.7,2213,17.3,463,-14.64
+Perth,1,238,Curtin,-31.9530524,115.8533317,Perth,94024,Perth CURTIN PPVC,5,WA,1867,31.82,594,68.18,1273,-0.62
+Karratha,1,312,Durack,-20.7371403,116.8480541,Karratha,47800,Karratha PPVC,5,WA,2073,40.86,847,59.14,1226,-0.03
+Broome,1,312,Durack,-17.9562673,122.2408787,Broome,33257,Broome PPVC,5,WA,2848,48.24,1374,51.76,1474,-4.01
+Geraldton,1,312,Durack,-28.7671328,114.6166614,Geraldton,34255,Geraldton PPVC,5,WA,9093,29.97,2725,70.03,6368,2.35
+Busselton,1,239,Forrest,-33.6537412,115.3363308,Busselton,32817,Busselton PPVC,5,WA,6608,26.8,1771,73.2,4837,3.97
+Bunbury,1,239,Forrest,-33.32498,115.63807,Bunbury,46632,Bunbury PPVC,5,WA,11278,34.34,3873,65.66,7405,2.75
+Esperance,1,243,O'Connor,-33.8608027,121.8896205,Esperance,32761,Esperance PPVC,5,WA,2840,25.28,718,74.72,2122,-0.66
+Kalgoorlie,1,243,O'Connor,-30.744338,121.474438,Kalgoorlie,82736,Kalgoorlie PPVC,5,WA,4939,36.46,1801,63.54,3138,-2.11
+Albany,1,243,O'Connor,-35.02367,117.88314,Albany,32815,Albany PPVC,5,WA,8622,36.87,3179,63.13,5443,-2.86
+Yanchep,1,244,Pearce,-31.5497038,115.639055,Yanchep,83306,Yanchep PPVC,5,WA,3093,39.93,1235,60.07,1858,5.2
+Perth,1,245,Perth,-31.9535634,115.8532948,Perth,38296,Perth PERTH PPVC,5,WA,3528,52.72,1860,47.28,1668,-6.92
+Perth,1,246,Stirling,-31.9530524,115.8533317,Perth,94027,Perth STIRLING PPVC,5,WA,1217,41.99,511,58.01,706,-2.73
+Perth,1,247,Swan,-31.9530524,115.8533317,Perth,94028,Perth SWAN PPVC,5,WA,1701,44.39,755,55.61,946,-1.89
+Perth,1,248,Tangney,-31.9530524,115.8533317,Perth,94436,Perth TANGNEY PPVC,5,WA,942,33.33,314,66.67,628,6.88
