@@ -8,10 +8,14 @@ const port = 3000;
 
 app.use(cors());
 
+var corsOptions = {
+  origin: 'https://comp24frontend.herokuapp.com/',
+}
+
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json());
 
-app.get('/data', (req, res) => {
+app.get('/data', cors(corsOptions), (req, res) => {
 	res.json(data);
 });
 
