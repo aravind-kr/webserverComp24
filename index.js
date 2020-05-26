@@ -9,7 +9,7 @@ const port = 3000;
 app.use(cors());
 
 var corsOptions = {
-  origin: 'https://comp24frontend.herokuapp.com/',
+  origin: '*',
 }
 
 app.use(bodyParser.urlencoded({ extended: false }));
@@ -20,3 +20,5 @@ app.get('/data', cors(corsOptions), (req, res) => {
 });
 
 app.listen(port, () => console.log(`Server listening on port ${port}!`));
+
+app.timeout = 240000;
